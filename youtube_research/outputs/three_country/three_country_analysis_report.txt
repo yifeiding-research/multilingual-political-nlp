@@ -1,0 +1,85 @@
+
+THREE-COUNTRY POLITICAL INFLUENCER ANALYSIS REPORT
+======================================================================
+
+1. EXECUTIVE SUMMARY
+======================================================================
+
+This report presents a comparative analysis of political YouTube influencers
+across three European nations: France, Hungary, and Luxembourg. The analysis
+examines engagement patterns, content production, and reach metrics across
+7,615 videos from 58 distinct channels
+over the period June 2025 to 
+December 2025.
+
+2. DESCRIPTIVE STATISTICS BY COUNTRY
+======================================================================
+
+FRANCE
+------
+Channels: 20
+Videos: 2,903
+Average Engagement Rate: 0.0382
+Median Engagement Rate: 0.0268
+Average Views per Video: 67,897
+Median Views per Video: 10,850
+Total Views: 197,104,127
+
+HUNGARY
+-------
+Channels: 20
+Videos: 3,068
+Average Engagement Rate: 0.0449
+Median Engagement Rate: 0.0380
+Average Views per Video: 27,941
+Median Views per Video: 10,104
+Total Views: 85,722,318
+
+LUXEMBOURG
+----------
+Channels: 18
+Videos: 1,723
+Average Engagement Rate: 0.0338
+Median Engagement Rate: 0.0227
+Average Views per Video: 21,207
+Median Views per Video: 2,360
+Total Views: 36,539,029
+
+3. STATISTICAL SIGNIFICANCE TESTS
+======================================================================
+
+Kruskal-Wallis H Test (Across Three Countries):
+H = 459.5717, p = 0.0000
+Result: SIGNIFICANT difference
+
+Mann-Whitney U Tests (Pairwise Comparisons):
+France vs Hungary: p = 0.0000 SIGNIFICANT
+France vs Luxembourg: p = 0.0000 SIGNIFICANT
+Hungary vs Luxembourg: p = 0.0000 SIGNIFICANT
+
+4. KEY FINDINGS
+======================================================================
+
+1. Engagement Rate Ranking:
+   - Highest: Hungary
+   - Lowest: Luxembourg
+
+2. Production Volume:
+   - Most videos: Hungary
+   - Least videos: Luxembourg
+
+3. Reach (Average Views):
+   - Highest: France
+   - Lowest: Luxembourg
+
+5. RECOMMENDATIONS
+======================================================================
+
+1. Further investigate factors driving engagement rate differences
+2. Conduct qualitative interviews with top channels
+3. Analyze content characteristics (length, topics, production quality)
+4. Examine temporal patterns and political event correlations
+5. Assess platform algorithm influences on visibility
+
+======================================================================
+Report Generated: 2026-01-06 12:36:25

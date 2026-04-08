@@ -1,0 +1,661 @@
+{
+  "total_channels": 65,
+  "collection_date": "2026-01-09T04:55:27.711890",
+  "channels": [
+    {
+      "channel_id": "UClEGQZlQURxTiMdwBPqiKDQ",
+      "channel_name": "Français avec Nelly",
+      "country": "FR",
+      "subscribers": "641000",
+      "view_count": "33524915",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:32:23.557527",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCrGR1w7FATM8OiK_EzN3GAw",
+      "channel_name": "Bluey - Français Chaîne Officielle",
+      "country": "FR",
+      "subscribers": "897000",
+      "view_count": "508083247",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:32:25.037774",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCNsHkzVxGJVCgdG9Ej3zvfQ",
+      "channel_name": "Roronoa Zoro - Blox Fruits Francais - Roblox FR",
+      "country": "FR",
+      "subscribers": "21900",
+      "view_count": "2289412",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:32:27.292914",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UC1Sbx1M6ST-K2mRBv1xi02A",
+      "channel_name": "Le Foot Français",
+      "country": "FR",
+      "subscribers": "376000",
+      "view_count": "19916622",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:32:31.179614",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UC4P23XV4BwYtE_Nyx782bQg",
+      "channel_name": "Les Schtroumpfs • Français",
+      "country": "FR",
+      "subscribers": "220000",
+      "view_count": "110370448",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:32:33.160021",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCevXuAtHraEpAmEAS8GLxHg",
+      "channel_name": "Joyce Meyer Ministries Français",
+      "country": "FR",
+      "subscribers": "414000",
+      "view_count": "73398281",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:32:36.063862",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCnBeLfZjpTHU4K8_yMC1qLg",
+      "channel_name": "Un Français à Montréal 🇨🇦",
+      "country": "FR",
+      "subscribers": "505",
+      "view_count": "36998",
+      "video_count": 53,
+      "collected_date": "2026-01-09T04:32:39.161380",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCqyVU2lxTJCd--6ifljCDUQ",
+      "channel_name": "French vlogger Zhorna",
+      "country": "FR",
+      "subscribers": "47",
+      "view_count": "26761",
+      "video_count": 55,
+      "collected_date": "2026-01-09T04:32:40.905048",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCNkh2uTC8B-1mrSs7LhSkWA",
+      "channel_name": "POV VLOGGER ",
+      "country": "FR",
+      "subscribers": "19",
+      "view_count": "20760",
+      "video_count": 98,
+      "collected_date": "2026-01-09T04:32:44.585847",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCMgz-aEmkT8zCvDU9z2mM1w",
+      "channel_name": "Un Français à l'EPFL",
+      "country": "FR",
+      "subscribers": "1260",
+      "view_count": "149832",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:32:46.641903",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UC3rqI7xVHL-TbaZNh1_A_Qg",
+      "channel_name": "Not Even French",
+      "country": "FR",
+      "subscribers": "179000",
+      "view_count": "23414881",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:32:50.328472",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCayUEwpbi4htAzpTIKQLi6w",
+      "channel_name": "Legends Of Gaming France",
+      "country": "FR",
+      "subscribers": "80600",
+      "view_count": "6403349",
+      "video_count": 91,
+      "collected_date": "2026-01-09T04:32:53.138371",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCkX8QzvOOcegQ8qmUCVwPzA",
+      "channel_name": "Warner Bros. Games France",
+      "country": "FR",
+      "subscribers": "25900",
+      "view_count": "27568805",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:32:54.733794",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCH3ylKukbQZCk8pN3XALyhQ",
+      "channel_name": "Women in Games France",
+      "country": "FR",
+      "subscribers": "1100",
+      "view_count": "77590",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:32:57.595680",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCX7Mo1cDgCpMIMvn7HDrBLw",
+      "channel_name": "Instant Gaming France",
+      "country": "FR",
+      "subscribers": "371000",
+      "view_count": "5781846",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:33:00.362544",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UC9PD3EIAA-vtGLZgYXG3q0A",
+      "channel_name": "Frostbite Gaming",
+      "country": "FR",
+      "subscribers": "5430000",
+      "view_count": "3778679874",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:33:03.332896",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCpRgaSuBP0czOS3sFCPzEmg",
+      "channel_name": "France-Tech",
+      "country": "FR",
+      "subscribers": "38",
+      "view_count": "32040",
+      "video_count": 50,
+      "collected_date": "2026-01-09T04:33:12.753971",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCd_fU48Mj9t9Yr05miA060Q",
+      "channel_name": "Share it - Tech for good France",
+      "country": "FR",
+      "subscribers": "88",
+      "view_count": "13579",
+      "video_count": 54,
+      "collected_date": "2026-01-09T04:33:14.285430",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCaihFxAkHHYL0X4uhb1iiNQ",
+      "channel_name": "Business France",
+      "country": "FR",
+      "subscribers": "4000",
+      "view_count": "62287",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:33:19.721170",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCSsPvof7YtzEfy3Ki-ulCbA",
+      "channel_name": "Business France North America",
+      "country": "FR",
+      "subscribers": "181",
+      "view_count": "6577",
+      "video_count": 47,
+      "collected_date": "2026-01-09T04:33:21.868839",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCgLetfob6ZQz9Jd6icywG1A",
+      "channel_name": "Business France UK & Ireland",
+      "country": "FR",
+      "subscribers": "78",
+      "view_count": "9075",
+      "video_count": 88,
+      "collected_date": "2026-01-09T04:33:24.630205",
+      "day": "Day 1"
+    },
+    {
+      "channel_id": "UCj0BReTWPaVY0meNbXrBXmw",
+      "channel_name": "Dimz - French entrepreneuriat",
+      "country": "FR",
+      "subscribers": "53",
+      "view_count": "1408",
+      "video_count": 23,
+      "collected_date": "2026-01-09T04:34:14.984133",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCwFkpK4PpAtreejYWahejKA",
+      "channel_name": "Startup Bootcamp France",
+      "country": "FR",
+      "subscribers": "562",
+      "view_count": "63920",
+      "video_count": 27,
+      "collected_date": "2026-01-09T04:34:17.546906",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCCTxJ_rGO2LNTP3XEBuFC1A",
+      "channel_name": "Village by CA Centre France",
+      "country": "FR",
+      "subscribers": "59",
+      "view_count": "3994",
+      "video_count": 57,
+      "collected_date": "2026-01-09T04:34:23.333207",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCMPL47eGiw4I5Jqbqgd6ixw",
+      "channel_name": "Startup Leadership Program France",
+      "country": "FR",
+      "subscribers": "89",
+      "view_count": "3824",
+      "video_count": 23,
+      "collected_date": "2026-01-09T04:34:25.559725",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCdlT9tqlgOvrRTlcRlvqEiA",
+      "channel_name": "France Assos Santé ILE-DE-FRANCE",
+      "country": "FR",
+      "subscribers": "78",
+      "view_count": "4936",
+      "video_count": 21,
+      "collected_date": "2026-01-09T04:34:28.159776",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UC9mz51-cc32wEfpBeFj1ikQ",
+      "channel_name": "Premiers Secours en Santé Mentale - France",
+      "country": "FR",
+      "subscribers": "2440",
+      "view_count": "90307",
+      "video_count": 52,
+      "collected_date": "2026-01-09T04:34:30.878293",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCQd1fSwdH9xMO_LoRZRtZNw",
+      "channel_name": "ASTEN SANTE",
+      "country": "FR",
+      "subscribers": "1220",
+      "view_count": "96211",
+      "video_count": 39,
+      "collected_date": "2026-01-09T04:34:34.159201",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCupOddwfbDFHFTQAlviK5_w",
+      "channel_name": "Santé Optimale France",
+      "country": "FR",
+      "subscribers": "3",
+      "view_count": "585",
+      "video_count": 21,
+      "collected_date": "2026-01-09T04:34:35.606532",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCDKPSn9XqisCT5Ong_iyKvQ",
+      "channel_name": "Association Santé Environnement France - ASEF",
+      "country": "FR",
+      "subscribers": "180",
+      "view_count": "43483",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:34:37.226566",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCGAR1p-zHqYAKo2Y1EtMnrg",
+      "channel_name": "Santé publique France",
+      "country": "FR",
+      "subscribers": "34800",
+      "view_count": "60749920",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:34:38.988382",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCBgpMaLkxR3Z-nN1bDUcLlA",
+      "channel_name": "Agence Erasmus+ France / Education Formation",
+      "country": "FR",
+      "subscribers": "4280",
+      "view_count": "5422840",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:50:27.579974",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCNbFgnDsoWTL4jG9LGoPE8A",
+      "channel_name": "France Éducation international",
+      "country": "FR",
+      "subscribers": "10700",
+      "view_count": "542571",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:50:36.216512",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCfv7zCHjb36k-itCJR9FGJw",
+      "channel_name": "Life style and Culture in france",
+      "country": "FR",
+      "subscribers": "170",
+      "view_count": "158373",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:50:39.121403",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UChodbgdDz8VMZDNjY1tU9iA",
+      "channel_name": "Culture de France",
+      "country": "FR",
+      "subscribers": "422",
+      "view_count": "60573",
+      "video_count": 23,
+      "collected_date": "2026-01-09T04:50:41.873571",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCTiOb0psCpXfbNyY_rZTiJA",
+      "channel_name": "Ina French Style",
+      "country": "FR",
+      "subscribers": "12500",
+      "view_count": "4779120",
+      "video_count": 95,
+      "collected_date": "2026-01-09T04:50:43.578048",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCd5DKToXYTKAQ6khzewww2g",
+      "channel_name": "France Culture",
+      "country": "FR",
+      "subscribers": "836000",
+      "view_count": "168701119",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:50:47.728502",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCeLnsoEsuM4rWzzCU9RIlPQ",
+      "channel_name": "Notre Histoire",
+      "country": "FR",
+      "subscribers": "832000",
+      "view_count": "69466058",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:50:52.984793",
+      "day": "Day 2"
+    },
+    {
+      "channel_id": "UCsPb1p5D8sBPEyi6xfOIHFw",
+      "channel_name": "Csak egy magyar youtuber",
+      "country": "HU",
+      "subscribers": "22",
+      "view_count": "1560",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:51:55.396719",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UCzzjSjluEH1OB4_teRG3ZSg",
+      "channel_name": "Magyar gamer",
+      "country": "HU",
+      "subscribers": "69",
+      "view_count": "81460",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:52:00.514719",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UCw0hMF4Q8FWQNwVkChcaDeg",
+      "channel_name": "Magyar Gamer Róka",
+      "country": "HU",
+      "subscribers": "16",
+      "view_count": "1651",
+      "video_count": 45,
+      "collected_date": "2026-01-09T04:52:08.407824",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UCiRNNyNeiuE1elWuMqQ4gjA",
+      "channel_name": "Magyar Barbara",
+      "country": "HU",
+      "subscribers": "181000",
+      "view_count": "56921630",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:52:11.574106",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UCZFZ4K5mviNgA3WhzIQgxHw",
+      "channel_name": "Magyar Viktor Stream",
+      "country": "HU",
+      "subscribers": "1930",
+      "view_count": "115081",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:52:16.077729",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UCqkckauKO343ENoOIug1b3w",
+      "channel_name": "Magyar Streamer Bajnokság",
+      "country": "HU",
+      "subscribers": "6950",
+      "view_count": "396361",
+      "video_count": 50,
+      "collected_date": "2026-01-09T04:52:18.332654",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UCkAagxfNBNzR2BOAjNn0v7w",
+      "channel_name": "Magyar Tech Tippek",
+      "country": "HU",
+      "subscribers": "662",
+      "view_count": "273147",
+      "video_count": 58,
+      "collected_date": "2026-01-09T04:52:23.721013",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UCR1vscz1XcHisNX4PuVI61A",
+      "channel_name": "TotoFPV Tech",
+      "country": "HU",
+      "subscribers": "7040",
+      "view_count": "1499566",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:52:27.468043",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UCby2VTDvXnseL6Nz8aTFe0Q",
+      "channel_name": "Magyar Pedagógiai Társaság",
+      "country": "HU",
+      "subscribers": "194",
+      "view_count": "9103",
+      "video_count": 69,
+      "collected_date": "2026-01-09T04:52:34.782484",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UCSeQPRgxVTBli2vLpiF0KcQ",
+      "channel_name": "Elit Oktatás",
+      "country": "HU",
+      "subscribers": "7850",
+      "view_count": "1486563",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:52:36.616905",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UCpDsIDH22SGRxDWEFi7fUoA",
+      "channel_name": "Távoktatás magyar nyelven",
+      "country": "HU",
+      "subscribers": "16000",
+      "view_count": "5496870",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:52:39.877648",
+      "day": "Day 3"
+    },
+    {
+      "channel_id": "UC05VBlJEqK5dlRqyS1qfXng",
+      "channel_name": "Luxemburger Landwirtschaft",
+      "country": "LU",
+      "subscribers": "15300",
+      "view_count": "4148815",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:52:51.055998",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCh3MNRzicd8Yb_EX3Ml2JNA",
+      "channel_name": "Luxemburger Wort",
+      "country": "LU",
+      "subscribers": "5540",
+      "view_count": "3300991",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:52:52.634990",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCQ06napTcxCkFFuhxCyUNLw",
+      "channel_name": "Luxembourg Tech School",
+      "country": "LU",
+      "subscribers": "458",
+      "view_count": "18818",
+      "video_count": 52,
+      "collected_date": "2026-01-09T04:52:55.687474",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCXktNUh9ufLbUJaGLE0OaFg",
+      "channel_name": "POST Telecom for Business",
+      "country": "LU",
+      "subscribers": "202",
+      "view_count": "213396",
+      "video_count": 86,
+      "collected_date": "2026-01-09T04:52:58.852472",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCXUw95zJeXe65CVZfuJnNLQ",
+      "channel_name": "Luxembourg School of Business",
+      "country": "LU",
+      "subscribers": "1060",
+      "view_count": "142506",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:53:00.726480",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCxvacbxqQlbqlVcQ1anTp7A",
+      "channel_name": "The Luxembourg Mind",
+      "country": "LU",
+      "subscribers": "89",
+      "view_count": "4447",
+      "video_count": 22,
+      "collected_date": "2026-01-09T04:53:02.937202",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCS_fIfH_vvajsGwjIWp_3RA",
+      "channel_name": "Luxembourg American Cultural Society",
+      "country": "LU",
+      "subscribers": "267",
+      "view_count": "34176",
+      "video_count": 73,
+      "collected_date": "2026-01-09T04:53:14.898998",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UC9a5bGGzgZNulmiEqZJ7VOw",
+      "channel_name": "Kulturministère - Ministère de la Culture",
+      "country": "LU",
+      "subscribers": "178",
+      "view_count": "14838",
+      "video_count": 64,
+      "collected_date": "2026-01-09T04:53:16.328104",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UClyRIu_32S4O7ZCXrVhW8pw",
+      "channel_name": "CityNews Luxembourg",
+      "country": "LU",
+      "subscribers": "35",
+      "view_count": "2637",
+      "video_count": 43,
+      "collected_date": "2026-01-09T04:53:20.388580",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCqT59rrNLw3cCeAcxs3bWqg",
+      "channel_name": "Deep Dive Culture",
+      "country": "LU",
+      "subscribers": "57",
+      "view_count": "6186",
+      "video_count": 21,
+      "collected_date": "2026-01-09T04:53:21.424231",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCuHFiBL6XuLnwYfYQ_81I-g",
+      "channel_name": "Philharmonie Luxembourg Education",
+      "country": "LU",
+      "subscribers": "56",
+      "view_count": "7089",
+      "video_count": 76,
+      "collected_date": "2026-01-09T04:53:25.490991",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCrEMI7lYlpPqt4YnAsPSUBw",
+      "channel_name": "LUNEX",
+      "country": "LU",
+      "subscribers": "764",
+      "view_count": "1012996",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:53:27.033837",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCIlxJm4xjcSGXqho8_ni7nw",
+      "channel_name": "Sacred Heart University Luxembourg",
+      "country": "LU",
+      "subscribers": "260",
+      "view_count": "31035",
+      "video_count": 80,
+      "collected_date": "2026-01-09T04:53:28.620095",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCKAOqIOsNoWLPXtu2024wnQ",
+      "channel_name": "Ministère de l'Education nationale, de l'Enfance et de la Jeunesse",
+      "country": "LU",
+      "subscribers": "2150",
+      "view_count": "1734869",
+      "video_count": 100,
+      "collected_date": "2026-01-09T04:53:30.100593",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCmRVwvR-SggDuFipj6fbpxA",
+      "channel_name": "FHSE - University of Luxembourg",
+      "country": "LU",
+      "subscribers": "29",
+      "view_count": "3423",
+      "video_count": 27,
+      "collected_date": "2026-01-09T04:53:31.133753",
+      "day": "Day 4"
+    },
+    {
+      "channel_id": "UCkY-zyzXYL18XAHyZFSvdOg",
+      "channel_name": "Research Luxembourg",
+      "country": "LU",
+      "subscribers": "392",
+      "view_count": "85119",
+      "video_count": 80,
+      "collected_date": "2026-01-09T04:53:33.769963",
+      "day": "Day 4"
+    }
+  ],
+  "statistics": {
+    "FR": 38,
+    "HU": 11,
+    "LU": 16
+  }
+}

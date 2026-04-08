@@ -1,0 +1,1094 @@
+[
+  {
+    "channel_name": "Débat Politique",
+    "channel_id": "UCa9tv52VjkTbyurvtB2TZsA",
+    "country": "FR",
+    "total_videos_analyzed": 21,
+    "political_videos_count": 86,
+    "political_content_ratio": 4.095,
+    "recent_political_ratio": 1.0,
+    "older_political_ratio": null,
+    "trending_upward": null,
+    "top_keywords": {
+      "politique": 21,
+      "vote": 21,
+      "président": 21,
+      "débat politique": 21,
+      "gouvernement": 1
+    },
+    "recent_political_videos": [
+      {
+        "title": "Clermont Ferrand est en marche avec Emmanuel Macron",
+        "published": "2017-04-02T21:32:34Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Clermont Ferrand est en marche avec Emmanuel Macron",
+        "published": "2017-04-02T21:32:34Z",
+        "matched_keyword": "vote"
+      },
+      {
+        "title": "Clermont Ferrand est en marche avec Emmanuel Macron",
+        "published": "2017-04-02T21:32:34Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Clermont Ferrand est en marche avec Emmanuel Macron",
+        "published": "2017-04-02T21:32:34Z",
+        "matched_keyword": "débat politique"
+      },
+      {
+        "title": "Choisissons le mouvement du progressisme !",
+        "published": "2017-04-02T20:53:27Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Choisissons le mouvement du progressisme !",
+        "published": "2017-04-02T20:53:27Z",
+        "matched_keyword": "vote"
+      },
+      {
+        "title": "Choisissons le mouvement du progressisme !",
+        "published": "2017-04-02T20:53:27Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Choisissons le mouvement du progressisme !",
+        "published": "2017-04-02T20:53:27Z",
+        "matched_keyword": "débat politique"
+      },
+      {
+        "title": "Ceux qui veulent la victoire des progressistes en 2017 doivent nous rejoindre",
+        "published": "2017-04-02T20:53:22Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Ceux qui veulent la victoire des progressistes en 2017 doivent nous rejoindre",
+        "published": "2017-04-02T20:53:22Z",
+        "matched_keyword": "vote"
+      }
+    ]
+  },
+  {
+    "channel_name": "L’Emission politique",
+    "channel_id": "UCALQmB6ug_RUYac5yrtKfXg",
+    "country": "FR",
+    "total_videos_analyzed": 100,
+    "political_videos_count": 360,
+    "political_content_ratio": 3.6,
+    "recent_political_ratio": 1.0,
+    "older_political_ratio": 1.0,
+    "trending_upward": false,
+    "top_keywords": {
+      "politique": 100,
+      "président": 63,
+      "ministre": 52,
+      "parti": 50,
+      "élection": 33
+    },
+    "recent_political_videos": [
+      {
+        "title": "L'Emission politique la suite - 27 sept. 2018 (France 2)",
+        "published": "2018-09-28T13:38:18Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "L'Emission politique la suite - 27 sept. 2018 (France 2)",
+        "published": "2018-09-28T13:38:18Z",
+        "matched_keyword": "ministre"
+      },
+      {
+        "title": "L'Emission politique la suite - 27 sept. 2018 (France 2)",
+        "published": "2018-09-28T13:38:18Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "L'Emission Politique - le Premier Ministre Edouard Philippe - 27 sept. 2018 (France 2)",
+        "published": "2018-09-28T10:34:46Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "L'Emission Politique - le Premier Ministre Edouard Philippe - 27 sept. 2018 (France 2)",
+        "published": "2018-09-28T10:34:46Z",
+        "matched_keyword": "gouvernement"
+      },
+      {
+        "title": "L'Emission Politique - le Premier Ministre Edouard Philippe - 27 sept. 2018 (France 2)",
+        "published": "2018-09-28T10:34:46Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "L'Emission Politique - le Premier Ministre Edouard Philippe - 27 sept. 2018 (France 2)",
+        "published": "2018-09-28T10:34:46Z",
+        "matched_keyword": "ministre"
+      },
+      {
+        "title": "L'Emission politique du 17 mai 2018 : la suite (France 2)",
+        "published": "2018-05-23T11:14:18Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "L'Emission politique du 17 mai 2018 : la suite (France 2)",
+        "published": "2018-05-23T11:14:18Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "L'Emission politique du 17 mai 2018 : la suite (France 2)",
+        "published": "2018-05-23T11:14:18Z",
+        "matched_keyword": "ministre"
+      }
+    ]
+  },
+  {
+    "channel_name": "C Ce Soir - France Télévisions",
+    "channel_id": "UC1UUvhau_2V8ETvHfwkUQwg",
+    "country": "FR",
+    "total_videos_analyzed": 100,
+    "political_videos_count": 291,
+    "political_content_ratio": 2.91,
+    "recent_political_ratio": 0.88,
+    "older_political_ratio": 0.867,
+    "trending_upward": true,
+    "top_keywords": {
+      "politique": 76,
+      "président": 64,
+      "loi": 39,
+      "parti": 28,
+      "ministre": 25
+    },
+    "recent_political_videos": [
+      {
+        "title": "Menaces de Trump sur le Groenland : L’Europe est-elle prête à la guerre ?- C Ce Soir 6 décembre 2026",
+        "published": "2026-01-07T07:45:56Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "L'Europe est-elle militairement prête face aux États-Unis ? Par Gallagher FENWICK - C Ce Soir",
+        "published": "2026-01-06T21:00:15Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Après Maduro, quelle sera la prochaine cible de Donald Trump ? - C Ce Soir du 5 janvier 2026",
+        "published": "2026-01-06T17:40:47Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Après Maduro, quelle sera la prochaine cible de Donald Trump ? - C Ce Soir du 5 janvier 2026",
+        "published": "2026-01-06T17:40:47Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Les étatsuniens sont désormais les \"bullies\" du continent pour Vicente ULIVE-SCHNELL - C Ce Soir",
+        "published": "2026-01-06T15:30:01Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Les étatsuniens sont désormais les \"bullies\" du continent pour Vicente ULIVE-SCHNELL - C Ce Soir",
+        "published": "2026-01-06T15:30:01Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "C'est la reconstitution des empires pour Alexandra Schwartzbrod - C Ce Soir",
+        "published": "2026-01-06T12:31:03Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "C'est la reconstitution des empires pour Alexandra Schwartzbrod - C Ce Soir",
+        "published": "2026-01-06T12:31:03Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "États-Unis : est-ce la fin du masque démocratique ? - C Ce Soir du 5 janvier 2026",
+        "published": "2026-01-06T12:19:01Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "États-Unis : est-ce la fin du masque démocratique ? - C Ce Soir du 5 janvier 2026",
+        "published": "2026-01-06T12:19:01Z",
+        "matched_keyword": "président"
+      }
+    ]
+  },
+  {
+    "channel_name": "Pure Politique",
+    "channel_id": "UCYkZbyXcVmtdRUpCBi713vw",
+    "country": "FR",
+    "total_videos_analyzed": 100,
+    "political_videos_count": 217,
+    "political_content_ratio": 2.17,
+    "recent_political_ratio": 1.0,
+    "older_political_ratio": 1.0,
+    "trending_upward": false,
+    "top_keywords": {
+      "politique": 100,
+      "gouvernement": 47,
+      "parti": 13,
+      "ministre": 13,
+      "loi": 12
+    },
+    "recent_political_videos": [
+      {
+        "title": "Venezuela, Groenland... L'OGRE TRUMP DÉVORE LE MONDE, ET MACRON JOUE LES CARPETTES",
+        "published": "2026-01-05T20:48:41Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Porte-avions, budget : MACRON NOUS MÈNE EN BATEAU, ET LECORNU RAME",
+        "published": "2025-12-22T20:33:26Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Porte-avions, budget : MACRON NOUS MÈNE EN BATEAU, ET LECORNU RAME",
+        "published": "2025-12-22T20:33:26Z",
+        "matched_keyword": "gouvernement"
+      },
+      {
+        "title": "Crise agricole : BASTON HISTORIQUE SUR LE TRAITÉ DU MERCOSUR",
+        "published": "2025-12-18T18:20:01Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Colère des agriculteurs : LA VACHE, C'EST REPARTI !",
+        "published": "2025-12-15T20:36:44Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Colère des agriculteurs : LA VACHE, C'EST REPARTI !",
+        "published": "2025-12-15T20:36:44Z",
+        "matched_keyword": "gouvernement"
+      },
+      {
+        "title": "Colère des agriculteurs : LA VACHE, C'EST REPARTI !",
+        "published": "2025-12-15T20:36:44Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "C'est mieux que si c'était pire : LES NOUVELLES FRACTURES POLITIQUES",
+        "published": "2025-12-11T21:45:21Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "C'est mieux que si c'était pire : LES NOUVELLES FRACTURES POLITIQUES",
+        "published": "2025-12-11T21:45:21Z",
+        "matched_keyword": "vote"
+      },
+      {
+        "title": "Vote du PLFSS : \"Pour Sébastien Lecornu et Olivier Faure, c'est incontestablement une victoire\"",
+        "published": "2025-12-09T22:10:37Z",
+        "matched_keyword": "politique"
+      }
+    ]
+  },
+  {
+    "channel_name": "France Politique",
+    "channel_id": "UCot3fwUMTy8JZPqetpCirrQ",
+    "country": "FR",
+    "total_videos_analyzed": 1,
+    "political_videos_count": 2,
+    "political_content_ratio": 2.0,
+    "recent_political_ratio": null,
+    "older_political_ratio": null,
+    "trending_upward": null,
+    "top_keywords": {
+      "politique": 1,
+      "président": 1
+    },
+    "recent_political_videos": [
+      {
+        "title": "présidentielle française 2012 (complot) sarkozysme!.wmv",
+        "published": "2012-05-18T22:24:16Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "présidentielle française 2012 (complot) sarkozysme!.wmv",
+        "published": "2012-05-18T22:24:16Z",
+        "matched_keyword": "président"
+      }
+    ]
+  },
+  {
+    "channel_name": "Magyar Politika",
+    "channel_id": "UCWnet2C0W5iMNRFAC5W6nAw",
+    "country": "HU",
+    "total_videos_analyzed": 1,
+    "political_videos_count": 2,
+    "political_content_ratio": 2.0,
+    "recent_political_ratio": null,
+    "older_political_ratio": null,
+    "trending_upward": null,
+    "top_keywords": {
+      "politika": 1,
+      "párt": 1
+    },
+    "recent_political_videos": [
+      {
+        "title": "Gurmai Zita nagy futása a HÍR TV riportere elől! -Magyar Politika",
+        "published": "2022-11-04T15:50:52Z",
+        "matched_keyword": "politika"
+      },
+      {
+        "title": "Gurmai Zita nagy futása a HÍR TV riportere elől! -Magyar Politika",
+        "published": "2022-11-04T15:50:52Z",
+        "matched_keyword": "párt"
+      }
+    ]
+  },
+  {
+    "channel_name": "Focus FRANCE",
+    "channel_id": "UCVyw5cgAA9BeM_0m6KJ4EjA",
+    "country": "FR",
+    "total_videos_analyzed": 15,
+    "political_videos_count": 27,
+    "political_content_ratio": 1.8,
+    "recent_political_ratio": 1.0,
+    "older_political_ratio": null,
+    "trending_upward": null,
+    "top_keywords": {
+      "politique": 15,
+      "président": 4,
+      "loi": 3,
+      "parti": 3,
+      "élection": 1
+    },
+    "recent_political_videos": [
+      {
+        "title": "Maduro capturé  “Trump peut aussi passer par l’Élysée?",
+        "published": "2026-01-06T08:00:49Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Maduro capturé  Trump agit, Macron tweets?",
+        "published": "2026-01-06T07:00:15Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Trump capture Maduro  Poutine humilié en silence",
+        "published": "2026-01-06T06:00:29Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Marine Le Pen: “La France ridiculisée à l’étranger”, accusation explosive contre le président.",
+        "published": "2026-01-05T16:31:15Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Marine Le Pen: “La France ridiculisée à l’étranger”, accusation explosive contre le président.",
+        "published": "2026-01-05T16:31:15Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Emmanuel Macron fête Noël 2025 avec les forces armées françaises aux Émirats arabes unis.",
+        "published": "2026-01-05T15:01:33Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Emmanuel Macron fête Noël 2025 avec les forces armées françaises aux Émirats arabes unis.",
+        "published": "2026-01-05T15:01:33Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Emmanuel Macron fête Noël 2025 avec les forces armées françaises aux Émirats arabes unis.",
+        "published": "2026-01-05T15:01:33Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "Applaudir sans condamner la force  Le précédent qui inquiète l’Europe",
+        "published": "2026-01-04T19:24:10Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Applaudir sans condamner la force  Le précédent qui inquiète l’Europe",
+        "published": "2026-01-04T19:24:10Z",
+        "matched_keyword": "président"
+      }
+    ]
+  },
+  {
+    "channel_name": "C dans l'air - France Télévisions",
+    "channel_id": "UCvg4_wSz4Cmo4xRPXaKU47A",
+    "country": "FR",
+    "total_videos_analyzed": 100,
+    "political_videos_count": 160,
+    "political_content_ratio": 1.6,
+    "recent_political_ratio": 0.68,
+    "older_political_ratio": 0.6,
+    "trending_upward": true,
+    "top_keywords": {
+      "président": 46,
+      "politique": 34,
+      "parti": 23,
+      "ministre": 17,
+      "loi": 13
+    },
+    "recent_political_videos": [
+      {
+        "title": "Groenland : \"C’est une tentative d’intimidation\"",
+        "published": "2026-01-07T06:00:46Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Arrestation du président du Venezuela",
+        "published": "2026-01-06T21:00:01Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "\"Jean-Luc Mélenchon est un héritier de la main gauche de François Mitterrand\"",
+        "published": "2026-01-06T18:01:56Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Trump veut le Groenland... qui peut l'arrêter ?",
+        "published": "2026-01-06T18:00:49Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Trump veut le Groenland... qui peut l'arrêter ?",
+        "published": "2026-01-06T18:00:49Z",
+        "matched_keyword": "ministre"
+      },
+      {
+        "title": "Trump veut le Groenland... qui peut l'arrêter ?",
+        "published": "2026-01-06T18:00:49Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Qui soutient la stratégie de Trump ?",
+        "published": "2026-01-06T16:42:09Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Qui soutient la stratégie de Trump ?",
+        "published": "2026-01-06T16:42:09Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Trump et l’empire américain",
+        "published": "2026-01-06T15:02:01Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "Trump et l’empire américain",
+        "published": "2026-01-06T15:02:01Z",
+        "matched_keyword": "président"
+      }
+    ]
+  },
+  {
+    "channel_name": "Pascal Boniface",
+    "channel_id": "UC4VOE8jQPWUPp4PpNK8zhIg",
+    "country": "FR",
+    "total_videos_analyzed": 100,
+    "political_videos_count": 153,
+    "political_content_ratio": 1.53,
+    "recent_political_ratio": 0.84,
+    "older_political_ratio": 0.773,
+    "trending_upward": true,
+    "top_keywords": {
+      "politique": 54,
+      "loi": 26,
+      "président": 22,
+      "parti": 21,
+      "gouvernement": 12
+    },
+    "recent_political_videos": [
+      {
+        "title": "Venezuela-Trump : la force pour loi",
+        "published": "2026-01-05T15:31:19Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Venezuela-Trump : la force pour loi",
+        "published": "2026-01-05T15:31:19Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "Bonne année 2026",
+        "published": "2026-01-02T12:18:52Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Bonne année 2026",
+        "published": "2026-01-02T12:18:52Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "Trump à l'attaque de l'Amérique latine | Les mardis de l'IRIS",
+        "published": "2025-12-23T11:30:06Z",
+        "matched_keyword": "élection"
+      },
+      {
+        "title": "Trump à l'attaque de l'Amérique latine | Les mardis de l'IRIS",
+        "published": "2025-12-23T11:30:06Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Les nouveaux marqueurs de la vie internationale. Avec Maurice Gourdault-Montagne | Entretiens géopo",
+        "published": "2025-12-22T16:00:23Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Les nouveaux marqueurs de la vie internationale. Avec Maurice Gourdault-Montagne | Entretiens géopo",
+        "published": "2025-12-22T16:00:23Z",
+        "matched_keyword": "élection"
+      },
+      {
+        "title": "Les nouveaux marqueurs de la vie internationale. Avec Maurice Gourdault-Montagne | Entretiens géopo",
+        "published": "2025-12-22T16:00:23Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "Bilan géopolitique 2025",
+        "published": "2025-12-22T10:00:08Z",
+        "matched_keyword": "politique"
+      }
+    ]
+  },
+  {
+    "channel_name": "BLAST, Le souffle de l'info",
+    "channel_id": "UC__xRB5L4toU9yYawt_lIKg",
+    "country": "FR",
+    "total_videos_analyzed": 100,
+    "political_videos_count": 135,
+    "political_content_ratio": 1.35,
+    "recent_political_ratio": 0.56,
+    "older_political_ratio": 0.747,
+    "trending_upward": false,
+    "top_keywords": {
+      "politique": 40,
+      "parti": 31,
+      "loi": 28,
+      "président": 10,
+      "gouvernement": 7
+    },
+    "recent_political_videos": [
+      {
+        "title": "UN VOILIER CONTRE ISRAËL : LES IMAGES JAMAIS DIFFUSÉES DU MADLEEN",
+        "published": "2026-01-05T19:00:46Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "VENEZUELA : POURQUOI L’IMPÉRIALISME AMÉRICAIN SE DÉCHAÎNE À NOUVEAU",
+        "published": "2026-01-05T17:07:42Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "RACISME : AIMER EST UN ACTE DE RÉSISTANCE",
+        "published": "2026-01-02T17:00:59Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "2026 : UNE ANNÉE POUR RENVERSER LA TABLE",
+        "published": "2026-01-01T17:00:46Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "2026 : UNE ANNÉE POUR RENVERSER LA TABLE",
+        "published": "2026-01-01T17:00:46Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "2026 : UNE ANNÉE POUR RENVERSER LA TABLE",
+        "published": "2026-01-01T17:00:46Z",
+        "matched_keyword": "campagne"
+      },
+      {
+        "title": "L’ÉTAT CONTRE LES ASSOCIATIONS : LE TOURNANT AUTORITAIRE",
+        "published": "2025-12-30T17:00:31Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "L’ÉTAT CONTRE LES ASSOCIATIONS : LE TOURNANT AUTORITAIRE",
+        "published": "2025-12-30T17:00:31Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "COMMENT MIEUX PROTÉGER LES ENFANTS ?",
+        "published": "2025-12-29T17:00:15Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "COMMENT MIEUX PROTÉGER LES ENFANTS ?",
+        "published": "2025-12-29T17:00:15Z",
+        "matched_keyword": "loi"
+      }
+    ]
+  },
+  {
+    "channel_name": "BLAST, Le souffle de l'info",
+    "channel_id": "UC__xRB5L4toU9yYawt_lIKg",
+    "country": "FR",
+    "total_videos_analyzed": 100,
+    "political_videos_count": 135,
+    "political_content_ratio": 1.35,
+    "recent_political_ratio": 0.56,
+    "older_political_ratio": 0.747,
+    "trending_upward": false,
+    "top_keywords": {
+      "politique": 40,
+      "parti": 31,
+      "loi": 28,
+      "président": 10,
+      "gouvernement": 7
+    },
+    "recent_political_videos": [
+      {
+        "title": "UN VOILIER CONTRE ISRAËL : LES IMAGES JAMAIS DIFFUSÉES DU MADLEEN",
+        "published": "2026-01-05T19:00:46Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "VENEZUELA : POURQUOI L’IMPÉRIALISME AMÉRICAIN SE DÉCHAÎNE À NOUVEAU",
+        "published": "2026-01-05T17:07:42Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "RACISME : AIMER EST UN ACTE DE RÉSISTANCE",
+        "published": "2026-01-02T17:00:59Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "2026 : UNE ANNÉE POUR RENVERSER LA TABLE",
+        "published": "2026-01-01T17:00:46Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "2026 : UNE ANNÉE POUR RENVERSER LA TABLE",
+        "published": "2026-01-01T17:00:46Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "2026 : UNE ANNÉE POUR RENVERSER LA TABLE",
+        "published": "2026-01-01T17:00:46Z",
+        "matched_keyword": "campagne"
+      },
+      {
+        "title": "L’ÉTAT CONTRE LES ASSOCIATIONS : LE TOURNANT AUTORITAIRE",
+        "published": "2025-12-30T17:00:31Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "L’ÉTAT CONTRE LES ASSOCIATIONS : LE TOURNANT AUTORITAIRE",
+        "published": "2025-12-30T17:00:31Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "COMMENT MIEUX PROTÉGER LES ENFANTS ?",
+        "published": "2025-12-29T17:00:15Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "COMMENT MIEUX PROTÉGER LES ENFANTS ?",
+        "published": "2025-12-29T17:00:15Z",
+        "matched_keyword": "loi"
+      }
+    ]
+  },
+  {
+    "channel_name": "U2P France",
+    "channel_id": "UCokBR7BbFAEWhN5v3uS4BDA",
+    "country": "FR",
+    "total_videos_analyzed": 100,
+    "political_videos_count": 125,
+    "political_content_ratio": 1.25,
+    "recent_political_ratio": 0.96,
+    "older_political_ratio": 0.827,
+    "trending_upward": true,
+    "top_keywords": {
+      "président": 76,
+      "ministre": 16,
+      "loi": 15,
+      "gouvernement": 6,
+      "élection": 6
+    },
+    "recent_political_videos": [
+      {
+        "title": "Interview de Michel Picon sur RTL - Budget 2026",
+        "published": "2025-12-22T09:34:49Z",
+        "matched_keyword": "gouvernement"
+      },
+      {
+        "title": "Interview de Michel Picon sur RTL - Budget 2026",
+        "published": "2025-12-22T09:34:49Z",
+        "matched_keyword": "ministre"
+      },
+      {
+        "title": "Interview de Michel Picon sur RTL - Budget 2026",
+        "published": "2025-12-22T09:34:49Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Interview de Michel Picon sur RTL - Budget 2026",
+        "published": "2025-12-22T09:34:49Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "Halte à l’inflation normative #SMCL2025",
+        "published": "2025-11-20T12:17:17Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Halte à l’inflation normative #SMCL2025",
+        "published": "2025-11-20T12:17:17Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "Éducation alimentaire #SMCL2025",
+        "published": "2025-11-20T11:46:47Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Dialogue U2P/Délégation sénatoriale aux entreprises #SMCL2025",
+        "published": "2025-11-20T10:54:44Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Pour une fiscalité locale stable, lisible et visible dans ses exonérations #SMCL2025",
+        "published": "2025-11-20T10:29:02Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Transition numérique des TPE-PME #SMCL2025",
+        "published": "2025-11-20T09:52:22Z",
+        "matched_keyword": "président"
+      }
+    ]
+  },
+  {
+    "channel_name": "Actualité Politique",
+    "channel_id": "UCQQcPw4KDgUDVCubGcTQRJQ",
+    "country": "FR",
+    "total_videos_analyzed": 18,
+    "political_videos_count": 22,
+    "political_content_ratio": 1.222,
+    "recent_political_ratio": 0.833,
+    "older_political_ratio": null,
+    "trending_upward": null,
+    "top_keywords": {
+      "président": 13,
+      "élection": 5,
+      "politique": 2,
+      "loi": 1,
+      "campagne": 1
+    },
+    "recent_political_videos": [
+      {
+        "title": "Marine Le Pen Présidente du Front National était l'invitée de France Bleu Saint Etienne Loire",
+        "published": "2014-03-14T19:28:47Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Marine Le Pen Présidente du Front National était l'invitée de France Bleu Saint Etienne Loire",
+        "published": "2014-03-14T19:28:47Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "Florian Philippot Vice-président du Front National sur LCP",
+        "published": "2014-03-11T04:55:06Z",
+        "matched_keyword": "élection"
+      },
+      {
+        "title": "Florian Philippot Vice-président du Front National sur LCP",
+        "published": "2014-03-11T04:55:06Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Conférence de presse Nicolas Bay Secrétaire général adjoint du FN",
+        "published": "2014-03-07T19:44:28Z",
+        "matched_keyword": "élection"
+      },
+      {
+        "title": "Conférence de presse Nicolas Bay Secrétaire général adjoint du FN",
+        "published": "2014-03-07T19:44:28Z",
+        "matched_keyword": "campagne"
+      },
+      {
+        "title": "Florian Philippot, Vice-Président du front National,invité de Jean-Jacques Bourdin sur RMC",
+        "published": "2014-03-06T21:57:05Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Marine Le Pen était en Bretagne, à Saint-Brieuc (Côtes d'Armor), pour soutenir les candidats FN-RBM",
+        "published": "2014-03-06T21:33:19Z",
+        "matched_keyword": "élection"
+      },
+      {
+        "title": "Marine Le Pen était en Bretagne, à Saint-Brieuc (Côtes d'Armor), pour soutenir les candidats FN-RBM",
+        "published": "2014-03-06T21:33:19Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Marine Le Pen Présidente du Front National invitée de Patrick Chêne sur LCP",
+        "published": "2014-03-06T09:04:35Z",
+        "matched_keyword": "président"
+      }
+    ]
+  },
+  {
+    "channel_name": "C à vous - France Télévisions",
+    "channel_id": "UCejTWYquMXD_MFHRZiqo_Aw",
+    "country": "FR",
+    "total_videos_analyzed": 100,
+    "political_videos_count": 113,
+    "political_content_ratio": 1.13,
+    "recent_political_ratio": 1.0,
+    "older_political_ratio": 0.987,
+    "trending_upward": true,
+    "top_keywords": {
+      "politique": 99,
+      "parti": 4,
+      "loi": 4,
+      "président": 4,
+      "élection": 1
+    },
+    "recent_political_videos": [
+      {
+        "title": "Si Trump ciblait le Groenland, que se passerait-il avec l’OTAN ?",
+        "published": "2026-01-07T07:30:33Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "La philosophie d’Amel Bent et de Manu Payet - C à Vous l’Intégrale - 06/01/2026",
+        "published": "2026-01-06T21:00:14Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "La philosophie d’Amel Bent et de Manu Payet - C à Vous l’Intégrale - 06/01/2026",
+        "published": "2026-01-06T21:00:14Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "Les médias français mis à rude épreuve par la neige ! - L’ABC de Bertrand Chameroy - 06/01/2026",
+        "published": "2026-01-06T20:51:31Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Pourquoi Trump veut cibler le Groenland ⬇️",
+        "published": "2026-01-06T20:42:09Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Amel Bent - “Pourquoi tu restes” en live",
+        "published": "2026-01-06T20:14:38Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Louis Bodin agacé par les accusations de sous-évaluation de l'épisode neigeux visant Météo France",
+        "published": "2026-01-06T19:54:20Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Louis Bodin agacé par les accusations de sous-évaluation de l'épisode neigeux visant Météo France",
+        "published": "2026-01-06T19:54:20Z",
+        "matched_keyword": "loi"
+      },
+      {
+        "title": "Le Groenland, vieille obsession de Trump - C à Vous l’intégrale - 06/01/2026",
+        "published": "2026-01-06T19:45:03Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Incendie à Crans-Montana : le bar pas contrôlé depuis 2019 - Le 5/5 de Lorrain Sénéchal",
+        "published": "2026-01-06T19:30:06Z",
+        "matched_keyword": "politique"
+      }
+    ]
+  },
+  {
+    "channel_name": "France Politique Mondiale",
+    "channel_id": "UCQQrOTCeDgGaogNGVLSktow",
+    "country": "FR",
+    "total_videos_analyzed": 1,
+    "political_videos_count": 1,
+    "political_content_ratio": 1.0,
+    "recent_political_ratio": null,
+    "older_political_ratio": null,
+    "trending_upward": null,
+    "top_keywords": {
+      "politique": 1
+    },
+    "recent_political_videos": [
+      {
+        "title": "CHOC : Macron BLOQUE sa DESTITUTION : UN SCANDALE SANS PRÉCÉDENT !",
+        "published": "2025-07-20T19:30:04Z",
+        "matched_keyword": "politique"
+      }
+    ]
+  },
+  {
+    "channel_name": "Actualités ",
+    "channel_id": "UCH0_1V5Y3u4TGDHsAa8DYSw",
+    "country": "FR",
+    "total_videos_analyzed": 1,
+    "political_videos_count": 1,
+    "political_content_ratio": 1.0,
+    "recent_political_ratio": null,
+    "older_political_ratio": null,
+    "trending_upward": null,
+    "top_keywords": {
+      "politique": 1
+    },
+    "recent_political_videos": [
+      {
+        "title": "« Trump est-il devenu fou ? Ce qu’il fait choque le monde !",
+        "published": "2026-01-06T15:15:10Z",
+        "matched_keyword": "politique"
+      }
+    ]
+  },
+  {
+    "channel_name": "Magyar Politika",
+    "channel_id": "UCNO6iiRpw0ERtUA7KIAJZlQ",
+    "country": "HU",
+    "total_videos_analyzed": 2,
+    "political_videos_count": 2,
+    "political_content_ratio": 1.0,
+    "recent_political_ratio": null,
+    "older_political_ratio": null,
+    "trending_upward": null,
+    "top_keywords": {
+      "kormány": 1,
+      "párt": 1
+    },
+    "recent_political_videos": [
+      {
+        "title": "Kossuth Lajos utcai üzletsor - takarítási akció 2017",
+        "published": "2017-10-03T11:12:25Z",
+        "matched_keyword": "kormány"
+      },
+      {
+        "title": "Kossuth Lajos utcai üzletsor - takarítási akció 2017",
+        "published": "2017-10-03T11:12:25Z",
+        "matched_keyword": "párt"
+      }
+    ]
+  },
+  {
+    "channel_name": "Magyar Politika",
+    "channel_id": "UC04L_ug2HiqXxHe7FMTeSkg",
+    "country": "HU",
+    "total_videos_analyzed": 2,
+    "political_videos_count": 2,
+    "political_content_ratio": 1.0,
+    "recent_political_ratio": null,
+    "older_political_ratio": null,
+    "trending_upward": null,
+    "top_keywords": {
+      "politika": 2
+    },
+    "recent_political_videos": [
+      {
+        "title": "Infláció ellen ETF-fel? Nézd meg hogyan működik!",
+        "published": "2025-07-28T15:03:51Z",
+        "matched_keyword": "politika"
+      },
+      {
+        "title": "Orbán Viktor vagy Magyar Péter? 3 lényeges különbség.",
+        "published": "2025-07-27T10:33:41Z",
+        "matched_keyword": "politika"
+      }
+    ]
+  },
+  {
+    "channel_name": "HugoDécrypte - Actus du jour",
+    "channel_id": "UCAcAnMF0OrCtUep3Y4M-ZPw",
+    "country": "FR",
+    "total_videos_analyzed": 100,
+    "political_videos_count": 78,
+    "political_content_ratio": 0.78,
+    "recent_political_ratio": 0.4,
+    "older_political_ratio": 0.307,
+    "trending_upward": true,
+    "top_keywords": {
+      "parti": 16,
+      "politique": 13,
+      "ministre": 11,
+      "loi": 11,
+      "gouvernement": 9
+    },
+    "recent_political_videos": [
+      {
+        "title": "Trump s'attaque désormais au Groenland, l'Europe répond",
+        "published": "2026-01-06T20:20:20Z",
+        "matched_keyword": "politique"
+      },
+      {
+        "title": "Trump s'attaque désormais au Groenland, l'Europe répond",
+        "published": "2026-01-06T20:20:20Z",
+        "matched_keyword": "gouvernement"
+      },
+      {
+        "title": "Trump s'attaque désormais au Groenland, l'Europe répond",
+        "published": "2026-01-06T20:20:20Z",
+        "matched_keyword": "ministre"
+      },
+      {
+        "title": "Détrompez-vous : voici réellement pourquoi Trump attaque le Venezuela",
+        "published": "2026-01-05T19:01:24Z",
+        "matched_keyword": "gouvernement"
+      },
+      {
+        "title": "Détrompez-vous : voici réellement pourquoi Trump attaque le Venezuela",
+        "published": "2026-01-05T19:01:24Z",
+        "matched_keyword": "ministre"
+      },
+      {
+        "title": "Le déroulement de la capture du président Maduro par les Etats-Unis",
+        "published": "2026-01-05T10:15:04Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "Le président du Venezuela ENLEVÉ par Trump, la situation expliquée",
+        "published": "2026-01-03T22:19:55Z",
+        "matched_keyword": "président"
+      },
+      {
+        "title": "TOUT ce qui change pour vous à partir du 1er janvier",
+        "published": "2026-01-01T19:00:24Z",
+        "matched_keyword": "parti"
+      },
+      {
+        "title": "Voici 12 bonnes nouvelles pour bien démarrer l’année.",
+        "published": "2025-12-31T19:00:18Z",
+        "matched_keyword": "élection"
+      },
+      {
+        "title": "Voici 12 bonnes nouvelles pour bien démarrer l’année.",
+        "published": "2025-12-31T19:00:18Z",
+        "matched_keyword": "gouvernement"
+      }
+    ]
+  },
+  {
+    "channel_name": "France 3 Politique",
+    "channel_id": "UCZm_H164xULxbYqmLj5hgIQ",
+    "country": "FR",
+    "total_videos_analyzed": 4,
+    "political_videos_count": 3,
+    "political_content_ratio": 0.75,
+    "recent_political_ratio": null,
+    "older_political_ratio": null,
+    "trending_upward": null,
+    "top_keywords": {
+      "ministre": 1,
+      "gouvernement": 1,
+      "président": 1
+    },
+    "recent_political_videos": [
+      {
+        "title": "Ségolène Royal veut controler le prix des Transports Publics",
+        "published": "2015-01-05T20:39:01Z",
+        "matched_keyword": "ministre"
+      },
+      {
+        "title": "François Hollande sur France Inter",
+        "published": "2015-01-05T20:22:43Z",
+        "matched_keyword": "gouvernement"
+      },
+      {
+        "title": "François Hollande sur France Inter",
+        "published": "2015-01-05T20:22:43Z",
+        "matched_keyword": "président"
+      }
+    ]
+  }
+]

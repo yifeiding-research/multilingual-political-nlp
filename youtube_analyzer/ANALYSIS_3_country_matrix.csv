@@ -1,0 +1,6 @@
+,channel_id,subscribers,subscribers,subscribers,engagement_rate,engagement_rate,channel_heat_index,channel_heat_index
+,count,mean,median,max,mean,std,mean,std
+country,,,,,,,,
+FR,97,350883.73,2600.0,7540000,718.62,2349.13,0.23,0.11
+HU,44,18678.07,844.5,232000,384.59,434.55,0.19,0.06
+LU,56,7789.09,263.5,291000,1781.19,9660.55,0.16,0.07

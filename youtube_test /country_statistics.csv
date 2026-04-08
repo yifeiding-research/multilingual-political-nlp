@@ -1,0 +1,6 @@
+,view_count,view_count,like_count,like_count,comment_count,comment_count,engagement_rate,is_multilingual,num_languages
+,mean,sum,mean,sum,mean,sum,mean,mean,mean
+country,,,,,,,,,
+France,67896.7024,197104127,1797.8743,5219229,186.6865,541951,0.0382,0.0262,1.0279
+Hungary,27940.7816,85722318,883.8292,2711588,82.6845,253676,0.0449,0.0124,1.0134
+Luxembourg,21206.6332,36539029,643.4428,1108652,59.0673,101773,0.0323,0.0685,1.0725

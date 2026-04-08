@@ -1,0 +1,61 @@
+
+[HYPOTHESIS TEST SUMMARY]
+
+H1 (Language Strategy):
+  - Monolingual avg engagement: 341.7131
+  - Multilingual avg engagement: 334.9245
+  Support: NOT SUPPORTED
+
+H2 (Democratic Criticism):
+  - Strong democracy heat index: 0.2019
+  - Declining democracy heat index: 0.1854
+  Support: SUPPORTED
+
+H3 (Small State Engagement):
+  - Luxembourg avg subscribers: 7789
+  - France avg subscribers: 350884
+  - Luxembourg avg engagement: 334.9245
+  - France avg engagement: 338.2680
+  Support: PARTIALLY SUPPORTED (Lower audience but similar engagement)
+
+H5 (Language Platform Disadvantage):
+  - Luxembourg heat index: 0.1572
+  - France heat index: 0.2277
+  - Hungary heat index: 0.1854
+  Support: SUPPORTED
+
+[KEY FINDINGS]
+
+Sample Distribution:
+  - France: 97 channels (49.2%)
+  - Hungary: 44 channels (22.3%)
+  - Luxembourg: 56 channels (28.4%)
+
+Country Characteristics:
+         subscribers  engagement_rate  channel_heat_index
+country                                                  
+FR       350883.7320         338.2680              0.2277
+HU        18678.0682         349.3081              0.1854
+LU         7789.0893         334.9245              0.1572
+
+Cluster Distribution:
+country  FR  HU  LU
+cluster            
+0        28  22  25
+1        34   9   2
+2        25  10  20
+3        10   3   9
+
+[RECOMMENDATIONS FOR THESIS]
+
+1. Integrate findings into Chapter 8: Theoretical Framework and Hypothesis Testing
+2. Use hypothesis support degrees as quantitative evidence
+3. Data supports comparative methodology
+4. Clusters can identify different influencer types
+
+[NEXT ANALYSIS STEPS]
+
+1. Content analysis: Manual coding to identify political influencers
+2. Time series: Track channel growth trajectories
+3. Network analysis: Relationships between channels
+4. Qualitative interviews: Verify findings with key influencers

@@ -1,0 +1,28 @@
+                               OLS Regression Results                              
+===================================================================================
+Dep. Variable:     political_interest_post   R-squared:                       0.105
+Model:                                 OLS   Adj. R-squared:                  0.102
+Method:                      Least Squares   F-statistic:                     38.39
+Date:                     Sun, 28 Dec 2025   Prob (F-statistic):           1.98e-30
+Time:                             02:55:06   Log-Likelihood:                -1530.7
+No. Observations:                     1327   AIC:                             3071.
+Df Residuals:                         1322   BIC:                             3097.
+Df Model:                                4                                         
+Covariance Type:                       HC3                                         
+==========================================================================================
+                             coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------
+Intercept                  2.2186      0.162     13.708      0.000       1.901       2.536
+political_interest_pre     0.1427      0.027      5.355      0.000       0.090       0.195
+D_SEXE_post                0.2193      0.045      4.864      0.000       0.131       0.308
+D_CAT_AGE_post            -0.0742      0.014     -5.477      0.000      -0.101      -0.048
+D_REVENU_post             -0.0436      0.010     -4.444      0.000      -0.063      -0.024
+==============================================================================
+Omnibus:                       24.658   Durbin-Watson:                   1.926
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               24.610
+Skew:                           0.309   Prob(JB):                     4.53e-06
+Kurtosis:                       2.748   Cond. No.                         86.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)

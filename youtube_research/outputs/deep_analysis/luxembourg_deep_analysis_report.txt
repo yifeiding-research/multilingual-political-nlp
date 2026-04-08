@@ -1,0 +1,128 @@
+
+DEEP ANALYSIS: LUXEMBOURG
+======================================================================
+
+1. BASIC STATISTICS
+======================================================================
+
+Channels: 18
+Total Videos: 1,645
+Date Range: June 2025 to December 2025
+
+Engagement Rate:
+  Mean: 0.0338
+  Median: 0.0227
+  Std Dev: 0.0430
+  Min: 0.0000
+  Max: 1.0000
+
+View Count:
+  Mean: 22,212
+  Median: 2,660
+  Total: 36,539,029
+  Min: 1
+  Max: 2,664,193
+
+Like Count:
+  Mean: 674
+  Total: 1,108,652
+
+Comment Count:
+  Mean: 62
+  Total: 101,773
+
+2. TOP 5 CHANNELS BY ENGAGEMENT
+======================================================================
+
+                        channel_name  avg_engagement_rate  video_count  total_views
+               cercle de coopération             0.147157            1          299
+                         ptbbelgique             0.077620          131      4178050
+               Exploring The Benelux             0.057692           26           38
+Alternativ Demokratesch Reformpartei             0.054852           49         2460
+                      United Nations             0.044413          308      5149960
+
+3. TOP 5 CHANNELS BY VIDEO PRODUCTION
+======================================================================
+
+channel_name
+Rashid Ofl        378
+United Nations    308
+ptbbelgique       131
+India Today       112
+CRUX              101
+
+4. TEMPORAL TRENDS
+======================================================================
+
+Months Analyzed: 7
+
+Monthly Engagement Rate:
+  Highest: 0.0871 (2025-06)
+  Lowest: 0.0257 (2025-12)
+  Trend: Declining
+
+Month-by-Month Breakdown:
+year_month  engagement_rate
+   2025-06         0.087097
+   2025-07         0.042949
+   2025-08         0.044267
+   2025-09         0.034079
+   2025-10         0.037099
+   2025-11         0.043347
+   2025-12         0.025652
+
+5. VIEW-ENGAGEMENT CORRELATION
+======================================================================
+
+Spearman Rank Correlation:
+  r: 0.4356
+  p-value: 0.0000
+  Interpretation: SIGNIFICANT positive correlation
+
+Implication: Higher view counts associate with higher engagement
+
+6. VIDEO COUNT-ENGAGEMENT CORRELATION
+======================================================================
+
+Spearman Rank Correlation:
+  r: -0.0454
+  p-value: 0.8579
+  Interpretation: No significant correlation
+
+Implication: Video production volume {'IS' if luxembourg_prod_p < 0.05 else 'is NOT'} significantly related to engagement rates
+
+7. INEQUALITY MEASURE (GINI COEFFICIENT)
+======================================================================
+
+Gini Index: 0.8696
+Interpretation: High inequality - Few channels dominate
+
+Top 5 Channels View Share: 25.5%
+Remaining 13 Channels View Share: 74.5%
+
+8. KEY FINDINGS & CHARACTERISTICS
+======================================================================
+
+8.1 Engagement Landscape
+   - Highest Engagement Channel: cercle de coopération (0.1472)
+   - Lowest Engagement Channel: Paperjam (0.0065)
+   - Engagement Variance: 0.1407
+
+8.2 Content Production Strategy
+   - Most Prolific Channel: Rashid Ofl (378 videos)
+   - Single-Video Channels: 1
+   - Average Videos per Channel: 91.4
+
+8.3 Audience Scale Distribution
+   - Channels with <1K total views: 4
+   - Channels with 1K-10K views: 2
+   - Channels with 10K-100K views: 4
+   - Channels with >100K views: 8
+
+8.4 Comparison to Other Countries
+   - Engagement vs France: 0.0338 vs 0.0382 (Luxembourg is LOWER)
+   - Engagement vs Hungary: 0.0338 vs 0.0449 (Luxembourg is LOWER)
+   - Gini Index: 0.8696 (between France's 0.7723 and Hungary's 0.6750)
+
+======================================================================
+Report Generated: 2026-01-06 12:41:24

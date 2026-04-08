@@ -1,0 +1,4 @@
+Variable,Luxembourg_Mean,Foreign_Mean,Difference,T_Statistic,P_Value,Significant
+D_NATIO2,20.290,20.745,-0.455,-2.343,0.0192,*
+D10,1.258,3.292,-2.034,-41.510,0.0000,***
+D_REGION,3.132,2.805,0.326,5.238,0.0000,***
